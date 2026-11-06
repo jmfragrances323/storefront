@@ -17,7 +17,7 @@
     "@paypal/react-paypal-js": "^8.8.3",
     "@stripe/react-stripe-js": "^2.7.0",
     "@stripe/stripe-js": "^3.4.0",
-    "@xeboki/sdk": "file:../../Core/SDK/typescript",
+    "@xeboki/sdk": "file:vendor/xeboki-sdk-1.0.0.tgz",
     "clsx": "^2.1.1",
     "date-fns": "^3.6.0",
     "firebase": "^10.12.0",
